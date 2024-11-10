@@ -91,8 +91,4 @@ Game results saved as player1_game_results.xlsx
 ```
 ## **Contributing**
 Feel free to fork the repository and create a pull request if you have any improvements or features you'd like to add!
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
